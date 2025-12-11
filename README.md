@@ -133,7 +133,7 @@ Incluye:
 # 📹 **8. Videos requeridos**
 
 [![Video del laboratorio Real](https://img.youtube.com/vi/dLkZFfIDABk/0.jpg)](https://www.youtube.com/watch?v=dLkZFfIDABk)
-[![Video del laboratorio Simulado](https://img.youtube.com/vi/dLkZFfIDABk/0.jpg)](https://youtu.be/T_ncMpPhldI)
+[![Video del laboratorio Simulado](https://img.youtube.com/vi/T_ncMpPhldI/1.jpg)](https://youtu.be/T_ncMpPhldI)
 
 ---
 
