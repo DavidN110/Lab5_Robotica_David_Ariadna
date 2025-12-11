@@ -162,7 +162,7 @@ end
 # 🧰 **7. Código del laboratorio**
 
 Código completo:
-[Ver documento](./DOCS/control_servo.mlx)
+[Ver documento](./DOCS/control_servo.py)
 
 ## **7.1 Funciones principales del controlador ROS2 (`PincherController`)**
 
