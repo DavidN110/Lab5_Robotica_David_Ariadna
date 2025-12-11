@@ -147,7 +147,12 @@ subgraph Cinemática Directa
 E
 end
 ```
-
+<p align="center">
+  <img src="/IMG/pp2.png" width="400">
+</p>
+<p align="center">
+  <img src="/IMG/pp3.png" width="400">
+</p>
 ---
 
 # 🧰 **7. Código del laboratorio**
