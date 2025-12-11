@@ -132,8 +132,8 @@ Incluye:
 
 # 📹 **8. Videos requeridos**
 
-- `videos/demo_poses.mp4`  
-- `videos/demo_interfaz.mp4`  
+[![Video del laboratorio Real](https://img.youtube.com/vi/dLkZFfIDABk/0.jpg)](https://www.youtube.com/watch?v=dLkZFfIDABk)
+[![Video del laboratorio Simulado](https://img.youtube.com/vi/dLkZFfIDABk/0.jpg)](https://youtu.be/T_ncMpPhldI)
 
 ---
 
