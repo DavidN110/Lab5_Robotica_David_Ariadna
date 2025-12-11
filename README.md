@@ -64,6 +64,10 @@ Las longitudes se midieron con calibrador, obteniendo los siguientes parámetros
 <p align="center">
   <img src="/IMG/Home.png" width="400">
 </p>
+
+Más del Matlab:
+[Ver documento](./DOCS/Lab5Toolbox.mlx)
+
 ---
 
 # 🦾 **4. Cinco poses solicitadas**
@@ -157,7 +161,8 @@ end
 
 # 🧰 **7. Código del laboratorio**
 
-# 🧰 **7. Descripción de las funciones utilizadas**
+Código completo:
+[Ver documento](./DOCS/control_servo.mlx)
 
 ## **7.1 Funciones principales del controlador ROS2 (`PincherController`)**
 
