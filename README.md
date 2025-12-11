@@ -130,22 +130,9 @@ Incluye:
 
 ---
 
-# 📹 **8. Videos requeridos**
+# 📹 **8. Videos del laboratorio**
 
 [![Video del laboratorio Real](https://img.youtube.com/vi/dLkZFfIDABk/0.jpg)](https://www.youtube.com/watch?v=dLkZFfIDABk)
 [![Video del laboratorio Simulado](https://img.youtube.com/vi/T_ncMpPhldI/0.jpg)](https://youtu.be/T_ncMpPhldI)
 
 ---
-
-# 🗂️ **9. Estructura del repositorio**
-
-```
-Lab05_PXPincher/
-│── README.md
-│── imgs/
-│── videos/
-│── scripts/
-│── matlab/
-│── launch/
-│── poses/
-```
