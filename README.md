@@ -1,5 +1,8 @@
 # 🤖 Laboratorio 05 – PhantomX Pincher X100  
 ### Robótica – 2025-II – Universidad Nacional de Colombia  
+INTEGRANTES:
+- Ariadna Contreras Nossa
+- David Santiago Nagles Barajas
 
 Este repositorio contiene el desarrollo completo del **Laboratorio No. 05**, incluyendo:
 
@@ -146,9 +149,3 @@ Lab05_PXPincher/
 │── launch/
 │── poses/
 ```
-
----
-
-# 🏁 **10. Integrantes**
-- Nombre 1  
-- Nombre 2  
