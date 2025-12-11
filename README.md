@@ -57,7 +57,9 @@ Las longitudes se midieron con calibrador, obteniendo los siguientes parámetros
 | 4 | 0 | 0.066 | 0 | q4 |
 
 📌 Imagen del diagrama del robot:  
-`/imgs/diagrama_DH_robot.png`
+<p align="center">
+  <img src="/IMG/dh.png" width="400">
+</p>
 
 ---
 
