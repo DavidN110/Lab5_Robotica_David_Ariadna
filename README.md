@@ -33,6 +33,7 @@ Este repositorio contiene el desarrollo completo del **Laboratorio No. 05**, inc
 
 ---
 # 📹 **1. Videos del laboratorio**
+Dar click para ir al video en YouTube
 
 [![Video del laboratorio Real](https://img.youtube.com/vi/dLkZFfIDABk/0.jpg)](https://www.youtube.com/watch?v=dLkZFfIDABk)
 [![Video del laboratorio Simulado](https://img.youtube.com/vi/T_ncMpPhldI/0.jpg)](https://youtu.be/T_ncMpPhldI)
