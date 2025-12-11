@@ -61,6 +61,9 @@ Las longitudes se midieron con calibrador, obteniendo los siguientes parámetros
   <img src="/IMG/dh.png" width="400">
 </p>
 
+<p align="center">
+  <img src="/IMG/Home.png" width="400">
+</p>
 ---
 
 # 🦾 **4. Cinco poses solicitadas**
@@ -73,6 +76,21 @@ Las longitudes se midieron con calibrador, obteniendo los siguientes parámetros
 | 4 | 85 | -20 | 55 | 25 | 0 |
 | 5 | 80 | -35 | 55 | -45 | 0 |
 
+<p align="center">
+  <img src="/IMG/pose1.jpeg" width="400">
+</p>
+<p align="center">
+  <img src="/IMG/p2.jpeg" width="400">
+</p>
+<p align="center">
+  <img src="/IMG/p3.jpeg" width="400">
+</p>
+<p align="center">
+  <img src="/IMG/p4.jpeg" width="400">
+</p>
+<p align="center">
+  <img src="/IMG/p5.jpeg" width="400">
+</p>
 ---
 
 # 🖥️ **5. Interfaz HMI desarrollada**
@@ -89,6 +107,12 @@ La interfaz fue construida con **Tkinter** y contiene:
 - Valores articulares reales  
 - Visualización de la pose cartesiana  
 
+<p align="center">
+  <img src="/IMG/rviz1.png" width="400">
+</p>
+<p align="center">
+  <img src="/IMG/rviz2.png" width="400">
+</p>
 ---
 
 # 📡 **6. Funcionamiento general del sistema (diagrama Mermaid)**
