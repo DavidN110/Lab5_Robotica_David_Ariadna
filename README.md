@@ -92,7 +92,7 @@ A[GUI Tkinter<br>Sliders / Poses / Cartesiano] -->|Publica comandos| B[ROS2 Nodo
 
 B -->|Escribe posiciones objetivo<br>via Dynamixel Workbench| C[Servomotores AX-12]
 
-C -->|joint_states<br>(ángulos reales)| B
+C -->|joint_states<br>ángulos reales| B
 
 B -->|Actualiza<br>TF y joint_states| D[RViz]
 
@@ -100,7 +100,7 @@ B -->|Estados articulares| A
 
 A -->|Enviar q| E[FK Python]
 
-E -->|TCP (X,Y,Z,RPY)| A
+E -->|TCP X,Y,Z,RPY| A
 
 subgraph ROS2
 B
